@@ -1,0 +1,105 @@
+.kep {
+  position: relative;
+}
+.szoveg {
+  position: absolute;
+   bottom: 8px;
+  left: 290px;
+  font-size: 34px;
+  font-family: 'Abril Fatface', cursive;
+  color:#222grey>
+}
+    main {
+      width:820px;
+     margin:0 auto;
+  }
+.paragraf {
+  font-family: 'Josefin Sans', sans-serif;
+ font-size:20px;
+  margin-bottom: 20px;
+  margin-left:10px;
+  position: static;
+  }
+.bigger {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size:20px;
+   position: static;
+   margin-left:10px ;
+}
+blockquote::before {
+  content: '“';
+  font-family: 'Abril Fatface', cursive;
+  font-size:100px;
+    position: absolute;
+  top: -30px;
+  left: 0px;
+  }
+blockquote {
+   font-family: 'Abril Fatface', cursive;
+  font-size:50px;
+   text-align:center; 
+ margin:0 ; 
+  padding:30px 30px;
+  background-color: #222626; color:white;
+     position: relative;
+   vertical-align: center;
+}
+h3 {
+font-family: 'Merriweather Sans', sans-serif;
+  color: black;
+  margin-bottom: 0px;
+  font-size:25px;
+  font-weight: 700;
+  padding-bottom: 0;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+h4{
+  font-family: 'Josefin Sans', sans-serif;
+   color: black;
+  margin-bottom: 0px;
+  font-size:25px;
+  font-weight: 600;
+  padding-bottom: 0;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+p{
+  font-family: 'Josefin Sans', sans-serif;
+   color: black;
+  margin-bottom: 40px;
+  font-size:15px;
+  font-weight: 400;
+  padding-bottom: 0;
+  margin-left: 0px;
+  margin-right: 0px;
+  line-height:1.5;
+}
+h5{
+  font-family: 'Merriweather Sans', sans-serif;
+  color: black;
+  margin-bottom: 30px;
+  font-size:15px;
+  font-weight: 400;
+  padding-bottom: 0;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top:0px;
+  font-style:italic
+}
+ul {
+  font-family: 'Josefin Sans', sans-serif;
+   line-height:1.5;
+   font-size:15px;
+  font-weight: 400;
+  
+}
+.footer{
+  border-top:5px solid;
+}
+  /*
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Abril Fatface', cursive;
+
+*/
